@@ -1,0 +1,16 @@
+version: "Apple Swift version 5.6 (swiftlang-5.6.0.323.62 clang-1316.0.20.8)"
+options: "7c210285ad91bfaec743ad1cdc75c0a36a39d4994ee93a2203d801d0d6081829"
+build_start_time: [1651666678, 333683967]
+build_end_time: [1651666679, 584565162]
+inputs:
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/AppDelegate.swift": [1651656950, 156966209]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/BattleViewController.swift": [1651665772, 67432165]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/LobbyViewController.swift": [1651666677, 873668193]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/SceneDelegate.swift": [1651656950, 165620565]
+  ? "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/TechMon_Resources/Models/Enemy.swift"
+  : [1475338624, 0]
+  ? "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/TechMon_Resources/Models/Player.swift"
+  : [1475291992, 0]
+  ? "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/TechMon_Resources/Models/TechDraUtil.swift"
+  : [1545793041, 0]
+  "/Users/yamazakisota/Library/Mobile Documents/com~apple~CloudDocs/App/TechMonster/TechMonster/ViewController.swift": [1651656950, 169621467]
