@@ -1,2 +1,0 @@
-Target dependency graph (1 target)
-TechMonster in TechMonster, no dependencies
